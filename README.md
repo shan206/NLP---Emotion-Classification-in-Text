@@ -2,15 +2,15 @@
 # Overview
 This repository contains a machine learning project aimed at classifying emotions expressed in text samples. The project utilizes natural language processing (NLP) techniques to preprocess the data, extract features, and train models that can accurately identify emotions such as joy, anger, and fear.
 
-#Dataset
+# Dataset
 The dataset used for this project is nlp_dataset.csv, which includes various text samples along with their corresponding emotional labels. Each entry consists of a comment and the emotion it conveys.
 
 # Sample Data
 Comment	Emotion
 I seriously hate one subject to death but now I feel reluctant to drop it.	fear
-I feel so full of life I feel appalled.	anger
-I finally fell asleep feeling angry, useless and still full of anxiety.	anger
-I feel like I have regained another vital part of my life which is living.	joy
+I feel so full of life I feel appalled.	                                   anger
+I finally fell asleep feeling angry, useless and still full of anxiety.	    anger
+I feel like I have regained another vital part of my life which is living.	 joy
 # Project Structure
 nlp_dataset.csv: The dataset containing text samples and their associated emotions.
 NLP - Emotion Classification in Text.ipynb: Jupyter Notebook containing the complete code for loading, preprocessing the data, feature extraction, model training, and evaluation.
