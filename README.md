@@ -7,10 +7,10 @@ The dataset used for this project is nlp_dataset.csv, which includes various tex
 
 # Sample Data
 Comment	Emotion
-I seriously hate one subject to death but now I feel reluctant to drop it.	fear
-I feel so full of life I feel appalled.	                                   anger
-I finally fell asleep feeling angry, useless and still full of anxiety.	    anger
-I feel like I have regained another vital part of my life which is living.	 joy
+I seriously hate one subject to death but now I feel reluctant to drop it-	(fear).
+I feel so full of life I feel appalled-	                                   (anger).
+I finally fell asleep feeling angry, useless and still full of anxiety-	    (anger).
+I feel like I have regained another vital part of my life which is living-	 (joy)
 # Project Structure
 nlp_dataset.csv: The dataset containing text samples and their associated emotions.
 NLP - Emotion Classification in Text.ipynb: Jupyter Notebook containing the complete code for loading, preprocessing the data, feature extraction, model training, and evaluation.
